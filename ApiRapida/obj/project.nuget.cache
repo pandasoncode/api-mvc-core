@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kN43bTB9bYH33yO+K6HIB2Kb5ouRV4KxahunZpOZuDBMOW99rAJpQjGxyAf8ZQuiK4sDgJabXchm/uib5nxI3A==",
+  "success": true,
+  "projectFilePath": "C:\\api-rapida\\ApiRapida\\ApiRapida\\ApiRapida.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kleyf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
